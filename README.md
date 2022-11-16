@@ -26,3 +26,8 @@ The course entails four modules each with 4 different topics:
 + Question Answering
 + Chatbot
 
+### Content of the folders:
+For modules 1-3, you find all the exercises and the assignments with my solutions. Because of the big file sizes, I worked on the attention model assignments online. I only downloaded the files without the solutions to keep them as a template for potential future NLP projects.
+
+Here is my certificate :)
+![Gülçin Vardar](https://github.com/gulcinvardar/nlp_specialization_coursera_deeplearningai/blob/main/NLP%20Course%20certificate.pdf)
