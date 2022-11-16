@@ -2,7 +2,7 @@
 
 The course entails four modules each with 4 different topics:
 
-1. ![With Classification and Vector spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing):
+1. [With Classification and Vector spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing):
 + Sentiment Analysis with Logistic Regression
 + Sentiment Analysis with Naïve Bayes
 + Vector Space Models
